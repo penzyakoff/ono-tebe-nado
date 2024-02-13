@@ -1,1 +1,1 @@
-проект 1 Спринта Практикума "Оно тебе надо"
+[[проект 1 Спринта Практикума "Оно тебе надо"](https://github.com/penzyakoff/ono-tebe-nado.git)https://github.com/penzyakoff/ono-tebe-nado.git](https://github.com/penzyakoff/ono-tebe-nado.git)https://github.com/penzyakoff/ono-tebe-nado.git
